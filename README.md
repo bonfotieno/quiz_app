@@ -96,14 +96,10 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-## Contribute
-
-- Issue Tracker: [Issues](https://github.com/akashgiricse/lets-quiz/issues)
-- Source Code: [Download zip: Release v1.0.1](https://github.com/akashgiricse/lets-quiz/archive/1.0.1.zip)
 
 ## Contributors
 
-- [Akash Giri](https://github.com/akashgiricse)
+- [Bonface Otieno](https://github.com/bonfotieno)
 
 ## Support
 
@@ -114,4 +110,5 @@ python manage.py runserver
 
 MIT License
 
-Copyright (c) 2018 Akash Giri.
+Copyright (c) 2018 Bonface Otieno
+.
