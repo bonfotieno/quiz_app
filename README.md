@@ -101,10 +101,6 @@ python manage.py runserver
 
 - [Bonface Otieno](https://github.com/bonfotieno)
 
-## Support
-
-- If you are having issues, please let me know.<gr>
-  I have a mailing list located at: contact@akashgiri.com
 
 ## License
 
